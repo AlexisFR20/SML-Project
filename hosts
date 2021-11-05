@@ -1,0 +1,25 @@
+10.99.32.56	LEARSFLD
+10.99.32.96	LEARSFLD
+172.16.11.3 	JUMXLMSL01 #Primario
+172.16.11.4	JUMXLMSL02 #Secundario
+172.16.11.8 	JUMXLMSL03 #Flotante
+
+# Copyright (c) 1993-1999 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+       172.16.11.12      jumxtf27 
+       172.16.11.11      jumxtf26              
+       172.16.11.10      jumxtf25 
+       127.0.0.1       localhost
